@@ -32,3 +32,14 @@ Enhance the Python program to include functionality for exporting the product ca
 Database Connectivity
 Task 1: Write a Python script that connects to an SQLite3 database file, creates a table books with columns title, author, and year, and inserts multiple rows of data into the table.
 Task 2: Extend the previous SQLite3 task by adding functionality to select a book by title, update the author of a book, and delete a book from the books table.
+
+
+
+
+
+
+<!-- Date: 21-05-2024 (Web Clients) -->
+
+Task 1 :- Use the requests library in Python to make a GET request to a public API and print the response.
+
+Task 2 :- Write a Python script to send a POST request with JSON data and handle the JSON response.
