@@ -34,6 +34,18 @@ Task 1: Write a Python script that connects to an SQLite3 database file, creates
 Task 2: Extend the previous SQLite3 task by adding functionality to select a book by title, update the author of a book, and delete a book from the books table.
 
 
+<!-- pending work -->
+Comprehension, Iterators, Generator, Decorators , Lambda function
+Task 1: Write a list comprehension that creates a list of squares for all even numbers between 0 and 20.
+Task 2: Create a custom iterator class ReverseIter, which takes a list and iterates it from the reverse direction.
+Task 3: Write a generator function fib_gen that yields the Fibonacci sequence up to a given number n.
+Task 4: Create a filter using a lambda function that extracts all words from a list that have more than 4 characters.
+
+
+Pytest
+Task 1: Write a program with setup_method and teardown_method to prepare a temporary directory before each test method and delete it after.
+Task 2: Write a test that validates an exception is raised when invalid input is provided to a function. Use a condition of voting age as a parameter.
+
 
 
 
