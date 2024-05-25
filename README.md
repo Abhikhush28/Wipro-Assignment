@@ -55,3 +55,13 @@ Task 2: Write a test that validates an exception is raised when invalid input is
 Task 1 :- Use the requests library in Python to make a GET request to a public API and print the response.
 
 Task 2 :- Write a Python script to send a POST request with JSON data and handle the JSON response.
+
+
+
+<!-- Date : 22-05-2024 (Web Clients) -->
+
+Python as Web Client - Part 2
+
+Task 1 :- Create a Python script that uses OAuth authentication to connect to a RESTful service.
+
+Task 2 :- Write a Python program that handles HTTP errors gracefully (e.g., 404 or 500 errors) when making API requests.
